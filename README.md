@@ -1,4 +1,5 @@
 My solutions for the Jetbrain's Academy project 'Bulls and Cows'. 
+
 https://hyperskill.org/projects/364 
 The task is to recreate the original version of the game and then to improve it.
 The solution is build up step by step over several stages.
